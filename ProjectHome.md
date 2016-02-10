@@ -1,0 +1,1 @@
+This code is developed in order to reshape Arabic Unicode letters. It works for Arabic, Persian and perhaps Urdu. It supports Harkats to some extends. (Code needs Clean up and Documentation --will be fixed soon)
